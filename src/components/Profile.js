@@ -1,3 +1,7 @@
 import React from 'react'
 
-function Profile({})
+function Profile(props){
+  const  
+  
+
+}
